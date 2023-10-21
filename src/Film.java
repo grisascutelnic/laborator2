@@ -35,7 +35,7 @@ public class Film {
                 "Denumirea: " + this.denumire + "\n" +
                 "Categoria: " + this.categorie + "\n" +
                 "Nota medie: " + this.notaMedie + "\n" +
-                "Viznionari: " + this.vizionari + "\n" +
+                "Vizionari: " + this.vizionari + "\n" +
                 "Vizionat: " + this.vizionat + "\n" +
                 "Descrierea: " + this.descriere + "\n";
     }
