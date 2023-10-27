@@ -14,7 +14,7 @@ public class Dragon {
     }
 
     public String getNume() { return this.nume; }
-    public String getrasa() { return this.rasa; }
+    public String getRasa() { return this.rasa; }
     public String getCuloare() { return this.culoare; }
     public short getNumarPerechiAripi() { return this.numarPerechiAripi; }
     public int getGreutate() { return this.greutate; }
