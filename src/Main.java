@@ -102,7 +102,7 @@ public class Main {
                                 dragon.setNumarPerechiAripi(atributValueNumarPerechiAripi);
                                 System.out.println(dragon.getNumarPerechiAripi());
                                 break;
-                            case "Greutate":
+                            case "Greutatea":
                                 int atributValueGreutate = scanner.nextInt();
                                 dragon.setGreutate(atributValueGreutate);
                                 System.out.println(dragon.getGreutate());
