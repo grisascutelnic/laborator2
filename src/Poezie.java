@@ -5,7 +5,7 @@ public class Poezie {
     private int anulPublicarii;
     private String descriere;
 
-    Poezie(String denumire, String autor, short numarStrofe, int anulPublicarii, String descriere) {
+    public Poezie(String denumire, String autor, short numarStrofe, int anulPublicarii, String descriere) {
         this.denumire = denumire;
         this.autor = autor;
         this.numarStrofe = numarStrofe;

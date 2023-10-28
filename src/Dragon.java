@@ -5,7 +5,7 @@ public class Dragon {
     private short numarPerechiAripi;
     private int greutate;
 
-    Dragon(String nume, String rasa, String culoare, short numarPerechiAripi, int greutate) {
+    public Dragon(String nume, String rasa, String culoare, short numarPerechiAripi, int greutate) {
         this.nume = nume;
         this.rasa = rasa;
         this.culoare = culoare;

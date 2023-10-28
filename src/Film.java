@@ -6,7 +6,7 @@ public class Film {
     private boolean vizionat;
     private String descriere;
 
-    Film(String denumire, String categorie, short notaMedie, int vizionari, boolean vizionat, String descriere) {
+    public Film(String denumire, String categorie, short notaMedie, int vizionari, boolean vizionat, String descriere) {
         this.denumire = denumire;
         this.categorie = categorie;
         this.notaMedie = notaMedie;

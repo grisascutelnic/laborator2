@@ -5,7 +5,7 @@ public class Ceasca {
     private double volumL;
     private boolean toarta;
 
-    Ceasca (String forma, String culoare, String material, double volumL, boolean toarta) {
+    public Ceasca (String forma, String culoare, String material, double volumL, boolean toarta) {
         this.forma = forma;
         this.culoare = culoare;
         this.material = material;
